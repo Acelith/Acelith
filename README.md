@@ -21,7 +21,9 @@ Sometimes I stare at them while silently questioning my sanity, wondering if the
     </td>
   </tr>
 </table>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Acelith&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=statistics+of+shame">
+ </div>
 <hr>
 
 🛠️ Currently dabbling with systems and managed structures, while coding for fun when the stars align.  
